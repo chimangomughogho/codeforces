@@ -1,0 +1,8 @@
+#C++ executable files
+*.exe
+
+#Java compiled class files
+*.class
+
+#vscode settings
+.vscode/
