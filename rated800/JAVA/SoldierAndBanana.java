@@ -1,8 +1,8 @@
-package JAVA;
 // Programmer  - Chimango Mughogho
 // CodeForces' Program - Soldier and Banana (rated 800)
 // 26 Oct, 2026
 
+package JAVA;
 import java.util.Scanner;
 
 public class SoldierAndBanana {
